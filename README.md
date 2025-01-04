@@ -13,7 +13,7 @@ This project demonstrates the deployment of Patroni with Citus on Kubernetes usi
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/mfenerich/patroni-citus-demo.gi
+   git clone https://github.com/mfenerich/patroni-citus-demo.git
    cd patroni-citus-demo
    ```
 
